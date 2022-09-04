@@ -1,0 +1,23 @@
+{
+  "name": "cryptofundme-widget",
+  "version": "1.0.0",
+  "description": "cfm widget",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deltastackhq/cryptofundme-widget.git"
+  },
+  "keywords": [
+    "donation",
+    "crypto"
+  ],
+  "author": "Longinus King",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deltastackhq/cryptofundme-widget/issues"
+  },
+  "homepage": "https://github.com/deltastackhq/cryptofundme-widget#readme"
+}
